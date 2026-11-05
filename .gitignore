@@ -48,3 +48,10 @@ data/resumes/*
 .pytest_cache/
 .coverage
 htmlcov/
+data/exports/*
+!data/exports/.gitkeep
+frontend/test-results/
+test-results/
+docs/reports/playwright-report/
+playwright-report/
+

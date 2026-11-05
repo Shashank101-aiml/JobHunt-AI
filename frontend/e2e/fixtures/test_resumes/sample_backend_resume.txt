@@ -1,0 +1,21 @@
+Alex Rivera
+alex.rivera@example.com | (415) 555-0199 | San Francisco, CA
+linkedin.com/in/alex-rivera-synthetic
+
+PROFESSIONAL SUMMARY
+Senior Backend Engineer with 6 years experience architecting distributed microservices using Python, FastAPI, and PostgreSQL.
+
+TECHNICAL SKILLS
+Python, FastAPI, Flask, SQLAlchemy, Celery, PostgreSQL, Redis, Docker, Kubernetes, Git, CI/CD
+
+WORK EXPERIENCE
+Senior Backend Engineer | CloudScale Inc. | 2021 - Present
+- Architected high-throughput REST APIs handling 40,000 requests per minute using FastAPI and PostgreSQL.
+- Reduced database query latency by 45% through Redis caching and query indexing.
+
+Backend Engineer | DataWave Systems | 2018 - 2021
+- Developed asynchronous data processing pipelines with Python and Celery.
+- Implemented automated CI/CD workflows with Docker and GitHub Actions.
+
+EDUCATION
+Bachelor of Science in Computer Science | California State University | 2018
