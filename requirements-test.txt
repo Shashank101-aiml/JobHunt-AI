@@ -1,0 +1,7 @@
+-r requirements.txt
+pytest>=8.1.1
+pytest-asyncio>=0.23.5
+pytest-cov>=5.0.0
+pytest-html>=4.1.0
+requests>=2.31.0
+deepeval>=4.3.0
