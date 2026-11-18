@@ -62,7 +62,7 @@ jobs:
 
       - name: Run Pytest Unit & Integration Tests with Coverage
         run: |
-          pytest tests/test_*.py -v --cov=app --cov-report=xml:coverage.xml --cov-report=term-missing
+          pytest tests/ -m "not api and not eval" -v --cov=app --cov-report=xml:coverage.xml --cov-report=term-missing
 
       - name: Upload Coverage Artifact
         uses: actions/upload-artifact@v4
